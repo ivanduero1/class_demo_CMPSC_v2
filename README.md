@@ -2,3 +2,7 @@
 professor telling us how ts works
 
 pluh!
+
+**bold word here** *italic word here*
+
+[pretend this link is important][https://fortniteburger.net]
