@@ -5,4 +5,4 @@ pluh!
 
 **bold word here** *italic word here*
 
-(pretend this link is important)[https://fortniteburger.net]
+[pretend this link is important](https://fortniteburger.net)
